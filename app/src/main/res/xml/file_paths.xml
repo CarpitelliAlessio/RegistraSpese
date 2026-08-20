@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Permette al FileProvider di accedere temporaneamente alla cartella cache dell'app per condividere i file CSV dei report -->
+    <cache-path name="cache" path="." />
+</paths>

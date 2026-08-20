@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362168359812",
+    "project_id": "registraspese-4a780",
+    "storage_bucket": "registraspese-4a780.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362168359812:android:c59ece0ac6f9be9bc4dbd1",
+        "android_client_info": {
+          "package_name": "com.example.registraspese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362168359812-nt0rp12tbc6elgrgo7hftsjv9ut090gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registraspese",
+            "certificate_hash": "a8e58deb04abb4a638bdfebe103ede52cf866254"
+          }
+        },
+        {
+          "client_id": "362168359812-evk079rj4761lcuihmb0hiudskeiiteb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjIyz80Kv4iaDt8LrrsaJ3bp2AXZoqHwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362168359812-evk079rj4761lcuihmb0hiudskeiiteb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
