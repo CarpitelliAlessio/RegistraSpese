@@ -26,9 +26,9 @@ Un'applicazione nativa per la gestione delle spese condivise, sviluppata in Kotl
 Qui sotto puoi vedere alcune schermate principali dell'applicazione in azione:
 
 <div align="center">
-  <img src="screenshots/SchermataIngressoDopoLogin.png" alt="Schermata Home" width="250"/>
+  <img src="app/screenshots/SchermataIngressoDopoLogin.png" alt="Schermata Home" width="250"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-  <img src="screenshots/SchermataReport.png" alt="Schermata report" width="250"/>
+  <img src="app/screenshots/SchermataReport.png" alt="Schermata report" width="250"/>
 </div>
